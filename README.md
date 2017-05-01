@@ -17,3 +17,6 @@ Inside the editor menu `FILE > IMPORT SETTINGS`
 
 ## Font
 <img width="672" alt="schermata 2017-05-01 alle 20 37 29" src="https://cloud.githubusercontent.com/assets/4562878/25589738/0a12a848-2eae-11e7-81c9-9f5a978bb8e3.png">
+
+## Tips
+Use [f.lux](https://justgetflux.com/) to automatically adjust screen colors based on daytime
