@@ -7,7 +7,10 @@ Inside the editor menu `FILE > IMPORT SETTINGS`
 ## Screenshots
 
 #### Javascript
+<img width="1036" alt="schermata 2017-05-01 alle 20 22 11" src="https://cloud.githubusercontent.com/assets/4562878/25589619/95e26828-2ead-11e7-9dce-172a4e2b964e.png">
 
 #### yml
+<img width="566" alt="schermata 2017-05-01 alle 20 22 29" src="https://cloud.githubusercontent.com/assets/4562878/25589618/95ceefa0-2ead-11e7-9596-75f982b4a4ec.png">
 
 #### JSON
+<img width="588" alt="schermata 2017-05-01 alle 20 22 22" src="https://cloud.githubusercontent.com/assets/4562878/25589617/95ce999c-2ead-11e7-87a8-13bfbf898b92.png">
